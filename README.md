@@ -1,4 +1,4 @@
-- Archivo PHP de funciones en duro para conexión, calculo de Tarifa y geolocalización Chilexpress.
+- Funciones PHP para conexión, calculo de Tarifa y geolocalización/normalización de Regiones, comunas, calles y numeros vía Chilexpress.
 
 - Subir archivos WSDL a su server
 
