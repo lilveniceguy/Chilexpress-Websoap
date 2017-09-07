@@ -1,5 +1,3 @@
-![Logo](https://external.faep3-1.fna.fbcdn.net/safe_image.php?d=AQCGXMqixFCcThbd&w=476&h=249&url=http%3A%2F%2Fportfolio.ngage.lol%2Fimagenes%2Fme.jpg&cfs=1&upscale=1&sx=0&sy=166&sw=734&sh=384&_nc_hash=AQCEEYStNgrc4svX)
-
 - Funciones PHP para conexión, calculo de Tarifa y geolocalización/normalización de Regiones, comunas, calles y numeros vía Chilexpress.
 
 - Subir archivos WSDL a su server
